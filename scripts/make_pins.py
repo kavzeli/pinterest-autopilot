@@ -63,7 +63,7 @@ def flux_background(prompt, seed):
     r = requests.post(
         url,
         headers=auth_headers("CLOUDFLARE_API_TOKEN"),
-        json={"prompt": (prompt + PROMPT_SUFFIX)[:2048], "steps": 6, "seed": seed},
+        json={"prompt": (prompt + PROMPT_SUFFIX)[:2048], "steps": 6},
         timeout=120,
     )
     if r.status_code != 200:
