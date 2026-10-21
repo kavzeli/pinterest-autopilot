@@ -1,0 +1,17 @@
+{
+  "site_url": "https://wellkinddaily.com",
+  "brand_name": "WellKind Daily",
+  "brand_url_text": "wellkinddaily.com",
+  "pinterest_board_name": "WellKind Daily",
+  "pinterest_board_service_id": "",
+  "github_repo": "YOUR-GITHUB-USERNAME/pinterest-autopilot",
+  "pins_per_day": 5,
+  "max_pins_per_article": 2,
+  "colors": {
+    "cream": "#F3EEE4",
+    "sage": "#5E7A63",
+    "forest": "#2F4237",
+    "ink": "#2E3A33",
+    "sand": "#E8D3B4"
+  }
+}
