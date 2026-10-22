@@ -48,5 +48,55 @@
     "buffer_post_id": "6ad8ea373b03a49c42534701",
     "due_at": "2026-10-26T07:30:00.000Z",
     "queued_at": "2026-10-21T16:37:11+00:00"
+  },
+  {
+    "date": "2026-10-22",
+    "article_url": "https://wellkinddaily.com/meal-prep-for-busy-professionals/",
+    "headline": "Meal Prep in 90 Minutes a Week",
+    "pin_title": "Meal Prep for Busy Professionals: 90-Minute Weekly System for Healthy Eating",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-10-22/01-meal-prep-in-90-minutes-a-week.jpg",
+    "buffer_post_id": "6ad9af5b1093844846e4e96b",
+    "due_at": "2026-10-23T06:30:00.000Z",
+    "queued_at": "2026-10-22T06:38:19+00:00"
+  },
+  {
+    "date": "2026-10-22",
+    "article_url": "https://wellkinddaily.com/hydration-and-electrolyte-balance/",
+    "headline": "Water Alone Isn't Hydration",
+    "pin_title": "Hydration and Electrolyte Balance: How Much Fluid You Really Need",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-10-22/02-water-alone-isn-t-hydration.jpg",
+    "buffer_post_id": "6ad9af5cecaa6cda042eefdc",
+    "due_at": "2026-10-24T06:30:00.000Z",
+    "queued_at": "2026-10-22T06:38:20+00:00"
+  },
+  {
+    "date": "2026-10-22",
+    "article_url": "https://wellkinddaily.com/anti-inflammatory-diet-for-beginners/",
+    "headline": "Anti-Inflammatory Eating for Beginners",
+    "pin_title": "Anti-Inflammatory Diet for Beginners: A Simple Guide to Eating Well",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-10-22/03-anti-inflammatory-eating-for-beginners.jpg",
+    "buffer_post_id": "6ad9af5db086d40f5739161c",
+    "due_at": "2026-10-25T07:30:00.000Z",
+    "queued_at": "2026-10-22T06:38:21+00:00"
+  },
+  {
+    "date": "2026-10-22",
+    "article_url": "https://wellkinddaily.com/purpose-and-meaning-in-life/",
+    "headline": "How to Find Your Why",
+    "pin_title": "Purpose and Meaning in Life: Evidence-Based Ways to Find Your Why",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-10-22/04-how-to-find-your-why.jpg",
+    "buffer_post_id": "6ad9af5e1093844846e4e9f2",
+    "due_at": "2026-10-26T07:30:00.000Z",
+    "queued_at": "2026-10-22T06:38:22+00:00"
+  },
+  {
+    "date": "2026-10-22",
+    "article_url": "https://wellkinddaily.com/mindfulness-and-wellbeing/",
+    "headline": "Mindfulness: 10 Minutes a Day Is Enough",
+    "pin_title": "Mindfulness and Wellbeing: Evidence-Based Daily Practices for Beginners",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-10-22/05-mindfulness-10-minutes-a-day-is-enough.jpg",
+    "buffer_post_id": "6ad9af5fecaa6cda042ef021",
+    "due_at": "2026-10-27T07:30:00.000Z",
+    "queued_at": "2026-10-22T06:38:23+00:00"
   }
 ]
