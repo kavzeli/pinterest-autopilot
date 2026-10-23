@@ -27,8 +27,9 @@ W, H = 1000, 1500
 FONTS = ROOT / "fonts"
 FLUX_MODEL = "@cf/black-forest-labs/flux-1-schnell"
 PROMPT_SUFFIX = (
-    ", vertical composition, soft natural light, calm and airy, high quality "
-    "lifestyle photography, no text, no letters, no words, no watermark, no logo"
+    ", vertical composition, candid documentary-style lifestyle photograph, shot on 35mm film, "
+    "real people, natural skin texture, realistic hands, authentic unposed moment, "
+    "rich true-to-life colour, no text, no letters, no words, no watermark, no logo"
 )
 
 
@@ -63,7 +64,7 @@ def flux_background(prompt, seed):
     r = requests.post(
         url,
         headers=auth_headers("CLOUDFLARE_API_TOKEN"),
-        json={"prompt": (prompt + PROMPT_SUFFIX)[:2048], "steps": 6},
+        json={"prompt": (prompt + PROMPT_SUFFIX)[:2048], "steps": 8},
         timeout=120,
     )
     if r.status_code != 200:

@@ -64,9 +64,20 @@ Rules for each pin:
 - `pin_title`: up to 100 characters, keyword-rich, what people search for.
 - `description`: 250 to 450 characters, plain and helpful, ends with 3 to 5
   relevant hashtags. No links (the pin already links to the article).
-- `image_prompt`: a calm, realistic photo scene that fits the article: soft
-  natural light, sage, cream and warm wood tones. No people's faces up close,
-  no text in the image, no logos, no food that looks unappetising.
+- `image_prompt`: a candid, realistic lifestyle photo with a real person (or a
+  few people) doing something that fits the article. Describe the person (rough
+  age, look, clothing), the action, the setting, the time of day and the
+  colours, e.g. "a woman in her 40s with curly grey hair laughing while chopping
+  peppers in a sunny yellow kitchen, morning light".
+  - Vary across the day: different people (ages, genders, ethnicities, body
+    types), settings (kitchen, park, gym, office, café, market, bedroom, beach,
+    city street) and palettes (golden hour, bright daylight, cool blue morning,
+    warm evening lamps, bold colourful). No two pins on the same day share a
+    setting or colour palette. Do not default to sage, cream and wood tones.
+  - Natural, unposed moments, not stock-model smiles at the camera. Frame people
+    at mid-distance, over the shoulder or half-body; avoid extreme face close-ups
+    (they distort).
+  - No text in the image, no logos, no food that looks unappetising.
 
 ## 4. Make the images
 
@@ -78,7 +89,9 @@ If the output says Flux failed for every pin, still continue (the pins use a
 soft gradient instead) but mention it in the final report.
 
 Open two of the images with the Read tool and check the text is readable and
-nothing is cut off. If a headline overflows, shorten it in plan.json and run
+nothing is cut off. Also check the people look natural (no warped faces or
+hands); if one looks wrong, rewrite that pin's image_prompt (more distance,
+simpler action) and regenerate. If a headline overflows, shorten it in plan.json and run
 make_pins.py again.
 
 ## 5. Publish the images to GitHub
