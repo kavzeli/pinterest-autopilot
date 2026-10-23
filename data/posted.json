@@ -148,5 +148,55 @@
     "buffer_post_id": "6adaad1a1dc335d347e79ec0",
     "due_at": "2026-10-27T07:30:00.000Z",
     "queued_at": "2026-10-23T00:40:58+00:00"
+  },
+  {
+    "date": "2026-10-23-people",
+    "article_url": "https://wellkinddaily.com/meal-prep-for-busy-professionals/",
+    "headline": "5 Tools That Make Meal Prep Faster",
+    "pin_title": "5 Meal Prep Tools That Save Time for Busy Professionals",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-10-23-people/01-5-tools-that-make-meal-prep-faster.jpg",
+    "buffer_post_id": "6adaae88d447d56a646c8c77",
+    "due_at": "2026-10-23T06:30:00.000Z",
+    "queued_at": "2026-10-23T00:47:04+00:00"
+  },
+  {
+    "date": "2026-10-23-people",
+    "article_url": "https://wellkinddaily.com/hydration-and-electrolyte-balance/",
+    "headline": "Thirst Is a Late Signal",
+    "pin_title": "How Much Water Do You Need? Hydration and Electrolyte Tips for Active People",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-10-23-people/02-thirst-is-a-late-signal.jpg",
+    "buffer_post_id": "6adaae899ef33e7811ae11b1",
+    "due_at": "2026-10-24T06:30:00.000Z",
+    "queued_at": "2026-10-23T00:47:05+00:00"
+  },
+  {
+    "date": "2026-10-23-people",
+    "article_url": "https://wellkinddaily.com/anti-inflammatory-diet-for-beginners/",
+    "headline": "An Anti-Inflammatory Market Haul",
+    "pin_title": "Anti-Inflammatory Foods to Buy: A Beginner's Grocery Guide",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-10-23-people/03-an-anti-inflammatory-market-haul.jpg",
+    "buffer_post_id": "6adaae8a1dc335d347e7eb18",
+    "due_at": "2026-10-25T07:30:00.000Z",
+    "queued_at": "2026-10-23T00:47:06+00:00"
+  },
+  {
+    "date": "2026-10-23-people",
+    "article_url": "https://wellkinddaily.com/purpose-and-meaning-in-life/",
+    "headline": "Purpose Can Be Built",
+    "pin_title": "How to Build a Sense of Purpose: Science-Backed Habits for Meaning",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-10-23-people/04-purpose-can-be-built.jpg",
+    "buffer_post_id": "6adaae8b8d2197cb2a0a8063",
+    "due_at": "2026-10-26T07:30:00.000Z",
+    "queued_at": "2026-10-23T00:47:07+00:00"
+  },
+  {
+    "date": "2026-10-23-people",
+    "article_url": "https://wellkinddaily.com/mindfulness-and-wellbeing/",
+    "headline": "Mindfulness While You Walk",
+    "pin_title": "Mindfulness and Wellbeing: Easy Ways to Practise in Daily Life",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-10-23-people/05-mindfulness-while-you-walk.jpg",
+    "buffer_post_id": "6adaae8cd447d56a646c8cbe",
+    "due_at": "2026-10-27T07:30:00.000Z",
+    "queued_at": "2026-10-23T00:47:08+00:00"
   }
 ]
