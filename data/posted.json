@@ -198,5 +198,55 @@
     "buffer_post_id": "6adaae8cd447d56a646c8cbe",
     "due_at": "2026-10-27T07:30:00.000Z",
     "queued_at": "2026-10-23T00:47:08+00:00"
+  },
+  {
+    "date": "2026-11-20",
+    "article_url": "https://wellkinddaily.com/meaningful-work/",
+    "headline": "The 3 Pillars of Meaningful Work",
+    "pin_title": "Meaningful Work: 3 Research-Backed Pillars for Finding Purpose in Your Career",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-11-20/01-the-3-pillars-of-meaningful-work.jpg",
+    "buffer_post_id": "6afff7bbca85ebefb005c6df",
+    "due_at": "2026-11-21T07:30:00.000Z",
+    "queued_at": "2026-11-20T07:33:15+00:00"
+  },
+  {
+    "date": "2026-11-20",
+    "article_url": "https://wellkinddaily.com/leisure-wellness/",
+    "headline": "Why Leisure Makes You More Productive, Not Less",
+    "pin_title": "Leisure Wellness: How Restorative Play and Rest Boost Energy and Productivity",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-11-20/02-why-leisure-makes-you-more-productive-not-less.jpg",
+    "buffer_post_id": "6afff7bc738ce4635f968d14",
+    "due_at": "2026-11-22T07:30:00.000Z",
+    "queued_at": "2026-11-20T07:33:16+00:00"
+  },
+  {
+    "date": "2026-11-20",
+    "article_url": "https://wellkinddaily.com/humor-wellbeing/",
+    "headline": "How Laughter Supports Your Health, Backed by Research",
+    "pin_title": "Humor and Health: How Laughter and Play Reduce Stress (Evidence-Based)",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-11-20/03-how-laughter-supports-your-health-backed-by-resear.jpg",
+    "buffer_post_id": "6afff7bdca85ebefb005c730",
+    "due_at": "2026-11-23T07:30:00.000Z",
+    "queued_at": "2026-11-20T07:33:17+00:00"
+  },
+  {
+    "date": "2026-11-20",
+    "article_url": "https://wellkinddaily.com/environmental-wellness/",
+    "headline": "20 Minutes in Nature: Small Habits, Real Benefits",
+    "pin_title": "Environmental Wellness: How Time in Nature Lowers Stress (Plus Easy Green Habits)",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-11-20/04-20-minutes-in-nature-small-habits-real-benefits.jpg",
+    "buffer_post_id": "6afff7be4c1afd05deffccb3",
+    "due_at": "2026-11-24T07:30:00.000Z",
+    "queued_at": "2026-11-20T07:33:18+00:00"
+  },
+  {
+    "date": "2026-11-20",
+    "article_url": "https://wellkinddaily.com/emotional-intelligence/",
+    "headline": "The 4 Branches of Emotional Intelligence Explained",
+    "pin_title": "Emotional Intelligence: The 4 Branches of EQ and How to Improve Yours",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-11-20/05-the-4-branches-of-emotional-intelligence-explained.jpg",
+    "buffer_post_id": "6afff7bfca85ebefb005c773",
+    "due_at": "2026-11-25T07:30:00.000Z",
+    "queued_at": "2026-11-20T07:33:19+00:00"
   }
 ]
