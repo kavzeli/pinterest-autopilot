@@ -298,5 +298,25 @@
     "buffer_post_id": "6b014929dd205ed779c97acb",
     "due_at": "2026-11-30T07:30:00.000Z",
     "queued_at": "2026-11-21T07:32:57+00:00"
+  },
+  {
+    "date": "2026-11-22",
+    "article_url": "https://wellkinddaily.com/humor-wellbeing/",
+    "headline": "The 3 Pillars of Humor Wellness",
+    "pin_title": "3 Pillars of Humor Wellness: Laughter, Play and Connection for Better Health",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-11-22/01-the-3-pillars-of-humor-wellness.jpg",
+    "buffer_post_id": "6b029aa0d864a01105a62656",
+    "due_at": "2026-12-01T07:30:00.000Z",
+    "queued_at": "2026-11-22T07:32:48+00:00"
+  },
+  {
+    "date": "2026-11-22",
+    "article_url": "https://wellkinddaily.com/environmental-wellness/",
+    "headline": "4 Pillars of a Healthier Relationship With Nature",
+    "pin_title": "Environmental Wellness: 4 Pillars for a Healthier Relationship With Nature",
+    "image_url": "https://raw.githubusercontent.com/kavzeli/pinterest-autopilot/refs/heads/main/pins/2026-11-22/02-4-pillars-of-a-healthier-relationship-with-nature.jpg",
+    "buffer_post_id": "6b029aa0846b0ee9076aa55a",
+    "due_at": "2026-12-02T07:30:00.000Z",
+    "queued_at": "2026-11-22T07:32:48+00:00"
   }
 ]
